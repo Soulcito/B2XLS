@@ -1,0 +1,32 @@
+{
+  "queries": [
+        {
+          "excel":"bases",
+          "sheet": "query_1",
+          "connection": "1",
+		  "fields": "field_1, field_2, field_3",
+          "script": "select *from schema.table"                 
+        },
+        {
+          "excel":"bases",
+          "sheet": "query_2",
+          "connection": "1",
+		  "fields": "field_1, field_2, field_3",
+          "script": "select *from schema.table" 
+        },
+        {
+          "excel":"bases",
+          "sheet": "query_3",
+          "connection": "2",
+		  "fields": "field_1, field_2, field_3",
+          "script": "select *from schema.table" 
+        },
+        {
+          "excel":"bases",
+          "sheet": "query_4",
+          "connection": "3",
+		  "fields": "field_1, field_2, field_3",
+          "script": "select *from schema.table" 
+        }		
+  ]
+}

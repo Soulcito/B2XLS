@@ -1,0 +1,29 @@
+{  
+   "1": {
+         "bd_def": "SQL",
+         "name": "SQL Server name",
+         "host": "localhost",
+         "instance": "",
+         "database": "MyDatabase",
+	     "user": "myUser",
+	     "pass": "myPassword"
+        },	
+   "2": {
+         "bd_def": "ORA18",
+         "name": "ORACLE Server name",
+         "host": "localhost",
+         "instance": "",
+         "database": "MyDatabase",
+         "user": "myUser",
+         "pass": "myPassword",
+        },	
+   "3": {
+         "bd_def": "MYSQL8",
+         "name": "MYSQL Server name",
+         "host": "localhost",
+         "instance": "",
+         "database": "MyDatabase/schema name",
+         "user": "myUser",
+         "pass": "myPassword",
+        }   
+}
