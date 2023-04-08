@@ -40,21 +40,21 @@ Before beginning to work with B2XLS, you need to have instaled jave in your mach
 
 - The json files must be into a C:/B2XLS folder
 
-![b2xls folder](https://github.com/Soulcito/B2XLS/tree/main/img/b2xls_folder.png)
+![b2xls folder](https://github.com/Soulcito/B2XLS/blob/main/img/b2xls_folder.png?raw=true)
 
 Don't worry about "output" and "log" folder, the tool will create it.
 
 - The db.json file, is a referential file for what database you can use in the tool, here is important to know the "name" of each DB, an example:
 
-![json file](https://github.com/Soulcito/B2XLS/tree/main/img/bd_json.png)
+![json file](https://github.com/Soulcito/B2XLS/blob/main/img/bd_json.png?raw=true)
 
 - The connection.json file is where you define all databases connection, an example:
 
-![connection file](https://github.com/Soulcito/B2XLS/tree/main/img/connection_json.png)
+![connection file](https://github.com/Soulcito/B2XLS/blob/main/img/connection_json.png?raw=true)
 
 - The query.json file is where you define all the scripts which will be executed in the databases. Here you can define the name of the excel file, in what sheet you want the data, an example:
 
-![connection file](https://github.com/Soulcito/B2XLS/tree/main/img/query_json.png)
+![connection file](https://github.com/Soulcito/B2XLS/blob/main/img/query_json.png?raw=true)
 <br/><br/>
 <b style=" color: red ">
 Is important in this file fill the "fields" property, this data will be use in the header of the spreadsheet of each script
