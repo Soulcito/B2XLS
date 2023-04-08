@@ -1,0 +1,16 @@
+{
+  "server": [
+    {
+      "name": "SQL",
+      "description": "SQL Server data base"
+    },
+    {
+      "name": "ORA18",
+      "description": "Oracle data base 18 or above"
+    },
+    {
+      "name": "MYSQL8",
+      "description": "MySql data base version 8"
+    }
+  ]  
+}
