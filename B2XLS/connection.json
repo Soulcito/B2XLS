@@ -15,7 +15,7 @@
          "instance": "",
          "database": "MyDatabase",
          "user": "myUser",
-         "pass": "myPassword",
+         "pass": "myPassword"
         },	
    "3": {
          "bd_def": "MYSQL8",
@@ -24,6 +24,6 @@
          "instance": "",
          "database": "MyDatabase/schema name",
          "user": "myUser",
-         "pass": "myPassword",
+         "pass": "myPassword"
         }   
 }
