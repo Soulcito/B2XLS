@@ -80,6 +80,9 @@ in the "fields" property you must to have
 
 That is because in the open source version of TALEND, I don't have the obtain a dynamic schema for each script, so I solved this problem with the "fields" property.
 
+- For run the tool, you need to execute "b2xls_run.bat", remember you must have downloaded the zip file.
+  [Download the tool.](https://github.com/Soulcito/B2XLS/tree/main/build)
+
 ## 🚨 Need help?
 
 - [GitHub Discussions](https://github.com/Soulcito/B2XLS/discussions)
